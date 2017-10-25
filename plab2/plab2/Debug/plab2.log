@@ -1,0 +1,4 @@
+﻿  prog.cpp
+c:\users\centraldemon\documents\visual studio 2015\projects\plab2\plab2\prog.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  plab2.vcxproj -> C:\Users\centraldemon\Documents\Visual Studio 2015\Projects\plab2\Debug\plab2.exe
+  plab2.vcxproj -> C:\Users\centraldemon\Documents\Visual Studio 2015\Projects\plab2\Debug\plab2.pdb (Full PDB)

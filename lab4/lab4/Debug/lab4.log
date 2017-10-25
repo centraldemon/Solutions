@@ -1,0 +1,5 @@
+﻿  prog.cpp
+c:\users\centraldemon\documents\visual studio 2015\projects\lab4\lab4\prog.cpp(124): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\centraldemon\documents\visual studio 2015\projects\lab4\lab4\prog.cpp(126): warning C4305: '+=': truncation from 'double' to 'float'
+  lab4.vcxproj -> C:\Users\centraldemon\Documents\Visual Studio 2015\Projects\lab4\Debug\lab4.exe
+  lab4.vcxproj -> C:\Users\centraldemon\Documents\Visual Studio 2015\Projects\lab4\Debug\lab4.pdb (Full PDB)

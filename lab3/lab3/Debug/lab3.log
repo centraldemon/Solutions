@@ -1,0 +1,4 @@
+﻿  prog.cpp
+c:\users\centraldemon\documents\visual studio 2015\projects\lab3\lab3\prog.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab3.vcxproj -> c:\users\centraldemon\documents\visual studio 2015\Projects\lab3\Debug\lab3.exe
+  lab3.vcxproj -> c:\users\centraldemon\documents\visual studio 2015\Projects\lab3\Debug\lab3.pdb (Full PDB)
