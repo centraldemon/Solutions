@@ -79,6 +79,6 @@ void main()
 		}
 		sum += (sqrt(abs(cx + 1.05)) - sqrt(abs(cx))) / (2 * cx + 6.25);
 		i++;
-	} while (i <= 12);
+	} while (i <= 10);
 	cout << "Rezult 3: " << sum << endl;
 }
