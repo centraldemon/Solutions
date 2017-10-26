@@ -1,6 +1,2 @@
 ﻿  prog.cpp
-f:\gitsolutions\lab5\lab5\prog.cpp(15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-f:\gitsolutions\lab5\lab5\prog.cpp(21): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
-f:\gitsolutions\lab5\lab5\prog.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  lab5.vcxproj -> F:\gitsolutions\lab5\Debug\lab5.exe
-  lab5.vcxproj -> F:\gitsolutions\lab5\Debug\lab5.pdb (Full PDB)
+f:\gitsolutions\lab5\lab5\prog.cpp : fatal error C1041: cannot open program database 'F:\gitsolutions\lab5\lab5\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
